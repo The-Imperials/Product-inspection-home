@@ -1,0 +1,50 @@
+@import url(https://fonts.googleapis.com/css?family=Abril+Fatface|Lato|Nunito+Sans:400,600);
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}
+body{margin:0;}
+.title-text{position: absolute;left: 548px;top:30px;}
+.title-text2{position: absolute;left: 620px;top:80px;font-weight:500;line-height:1.1;color:#000}
+.text-product{}
+.label{border:1px solid #000}
+h2{font-family:Abril Fatface,Times New Roman,Times,serif;font-weight:500;line-height:1.1;color:#000}
+h2{margin-top:22px;margin-bottom:11px}
+h2{font-size:50px}.h3,h3{font-size:24px}
+p{margin:0 0 11px}
+@media (min-width:768px){.lead{font-size:24px}
+.text-left{text-align:left}
+.text-right{text-align:right}
+.text-center{text-align:center}
+.text-justify{text-align:justify}
+.container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}
+.container:after,.container:before{content:" ";display:table}
+.container:after{clear:both}
+@media (min-width:768px){.container{width:750px}}
+@media (min-width:992px){.container{width:970px}}
+@media (min-width:1200px){.container{width:1170px}}
+.container-fluid{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}
+.container-fluid:after,.container-fluid:before{content:" ";display:table}
+.container-fluid:after{clear:both}
+.col-xs-12{float:left}
+.col-xs-12{width:100%}
+.col-xs-pull-12{right:100%}
+.col-xs-offset-12{margin-left:100%}
+@media (min-width:768px){.col-sm-12{float:left}
+@media (min-width:992px){.col-md-4{float:left}
+.col-md-4{width:33.33333%}
+.white-text-container a,.white-text-container h1,.white-text-container h2,.white-text-container p{color:#fff}
+.white-text-container .btn-primary:hover{background-color:#8acfc5;border-color:#8acfc5}
+.title-light{color:#aaa}
+.footer-container{position: absolute;background-color:#8acfc5; width: 1360px;padding:70px 100px -100px 100px;margin-top:30px}
+@media (min-width:768px){.footer-input-text{float:left;width:60%}}.footer-logo{width:10%}
+.section-half-background-image-container{position:relative;background-color:#eee;padding:80px 0 100px}
+.section-half-background-image-container .image-column{display:none}
+@media (min-width:992px){.section-half-background-image-container .image-column{position:absolute;display:block;top:0;z-index:0;bottom:0;width:50%;background-size:cover;background-repeat:no-repeat;background-position:top}}
+.section-half-background-image-container .text-column{padding:50px;position:relative;z-index:3}
+.section-label{display:none}
+.section-label p{width:260px;margin-left:-130px;word-break:break-all}}
+.background-image-container{position:relative;text-align:center;background-size:cover;background-repeat:no-repeat;background-position:top;padding: 60px;}
+.overlay{background-color:hsla(0,0%,100%,.2);position:absolute;top:0;bottom:0;left:0;right:0}
+.section-container{padding:44px}
+#section-number{position:absolute;font-size: 30px;}
+.sairamlogo1{position: relative; top:30px;left: 60px;height: 90px; width: 90px;}
+#ecedept{position: relative; top: -40px;left:420px;font-weight:500;line-height:1.1;  font-size: 30px; color: black; width: 600px;}
